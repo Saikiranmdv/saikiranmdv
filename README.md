@@ -1,5 +1,33 @@
 # 💫 About Me:
-👋 Hi there!<br>I'm a FullStack Web Developer working on the MERN stack (MongoDB, Express.js, React, Node.js). I specialize in building dynamic, responsive, and scalable web applications.<br><br>💻 What I Do:<br><br>Develop full-stack applications with a focus on clean and maintainable code.<br>Create intuitive user interfaces and robust back-end services.<br>Solve complex problems through efficient and elegant solutions.<br>📂 GitHub Highlights:<br>Here, you'll find a mix of personal projects, collaborative work, and experimental ideas. Feel free to explore my repositories and connect if you’d like to collaborate or discuss any of my projects!<br><br>🌟 Let's Connect:<br>I'm always excited to work on innovative projects or share ideas.
+# 👋 Hi there!  
+
+I’m a **FullStack Web Developer** and **Cloud/DevOps Engineer**.  
+I work with the **MERN stack (MongoDB, Express.js, React, Node.js)** and modern **cloud platforms (AWS, Azure)**, combining development with DevOps to build scalable and automated solutions.  
+
+---
+
+## 💻 What I Do  
+- Build **full-stack applications** with clean, maintainable, and scalable code  
+- Design and deploy **cloud-native solutions** on AWS & Azure  
+- Automate workflows and infrastructure with **CI/CD pipelines**, **Docker**, **Kubernetes**, and **GitHub Actions**  
+- Implement **DevSecOps practices** to ensure secure and compliant deployments  
+- Solve complex problems with efficient and elegant solutions  
+
+---
+
+## 📂 GitHub Highlights  
+Here you’ll find a mix of:  
+- 🌐 **Web applications** (MERN stack projects)  
+- ☁️ **Cloud deployment setups** (Terraform, Infrastructure-as-Code)  
+- ⚙️ **DevOps automations** (CI/CD pipelines, containerization)  
+
+Feel free to explore my repositories and connect if you’d like to collaborate or discuss ideas!  
+
+---
+
+## 🌟 Let’s Connect  
+I’m always excited to work on innovative projects — whether it’s **building applications**, **scaling them in the cloud**, or **automating deployments**.  
+
 
 
 ## 🌐 Socials:
