@@ -1,5 +1,6 @@
 # 💫 About Me:
-# 👋 Hi there!  
+
+👋 Hi there!  
 
 I’m a **FullStack Web Developer** and **Cloud/DevOps Engineer**.  
 I work with the **MERN stack (MongoDB, Express.js, React, Node.js)** and modern **cloud platforms (AWS, Azure)**, combining development with DevOps to build scalable and automated solutions.  
