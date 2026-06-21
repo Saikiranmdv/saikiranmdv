@@ -5,7 +5,7 @@
 I’m a **DevSecOps & Cloud Engineer** with a strong background in **CI/CD automation, cloud platforms, container security, and security operations automation**.  
 I work at the intersection of **DevOps, Security, and Cloud**, building secure, automated, and scalable systems.
 
-I have hands-on experience with **AWS & Azure**, **Docker**, **Kubernetes fundamentals**, **GitHub Actions**, and **Infrastructure-as-Code**, along with strong exposure to **security automation using Microsoft Sentinel, Defender XDR, Logic Apps, and Security Copilot**.
+I have hands-on experience with **AWS & Azure**, **Docker**, **Kubernetes**, **GitHub Actions**, and **Terraform (Infrastructure-as-Code)**, along with strong exposure to **security automation using Microsoft Sentinel, Defender XDR, Logic Apps, and Security Copilot**.
 
 ---
 
